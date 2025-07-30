@@ -9,7 +9,7 @@ menu: {main: {weight: 10}}
 
 Hello there! My name is Thomas, and you can reach me at thomeven@gmail.com. I retired from work in April 2022 at the age of 62, and I'm absolutely passionate about wildlife photography. In my retirement, I spend my days cherishing time with my two daughters and grandchildren, pursuing my photography dreams, developing macOS applications, and exploring the breathtaking Norwegian mountains and nature.
 
-Each bird and animal featured on my website has links to Wikipedia articles for those who want to learn more. All photos and videos within this pages are taken by me.
+All photos and videos within this pages are taken by me.
 
 # Important
 
