@@ -11,6 +11,12 @@ Hello there! My name is Thomas, and you can reach me at thomeven@gmail.com. I re
 
 Each bird and animal featured on my website has links to Wikipedia articles for those who want to learn more. All photos and videos within this pages are taken by me.
 
+# Important
+
+Although I am not an avian expert, my experience observing the Hen harrier has provided me with some deeper understanding of the species. While much of my knowledge is derived from reading literature and research, my personal observations by photo have been particularly valuable. Over the past four to five years, I have dedicated myself to photographing birds, which has enhanced my knowledge and appreciation of these magnificent creatures. But, I am still a novice regarding knowlegde about birds and birding.
+
+Observing the Hen harrier has been an immensely rewarding and intellectually stimulating experience.
+
 # Birds of prey
 
 This website is dedicated to a few birds of prey that I've spotted either near my home or at my cabin in the mountains. Some of these birds are even seen both at home and at my cabin. My home is in Vestfold, close to the Oslo Fjord, and my cabin is about 1000 meters above sea level in the beautiful valley of Hallingdal. Both my home and cabin are located in Southern Norway.
