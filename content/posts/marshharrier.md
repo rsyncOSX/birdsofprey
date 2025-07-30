@@ -5,7 +5,7 @@ subtitle: Western marsh harrier
 tags: [Western marsh harrier]
 ---
 
-Western marsh harrier.
+*To be updated. Only a few pictures and text for now..*
 
 <!--more-->
 

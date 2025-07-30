@@ -4,6 +4,7 @@ date: 2025-07-29
 subtitle: Common kestrel
 tags: [common kestrel]
 ---
+*To be updated. Only a few pictures and text for now..*
 
 The common kestrel is a beautiful, small bird of prey. It is quite common, both in at sea level and in the mountains. I have observed and photographed the common kestrel close to my home and to my cabin in the mountains.
 

@@ -5,7 +5,7 @@ subtitle: Eurasian hobby
 tags: [eurasian hobby]
 ---
 
-The Eurasian hobby capture and eat dragonflies.
+*To be updated. Only a few pictures and text for now..*
 
 <!--more-->
 

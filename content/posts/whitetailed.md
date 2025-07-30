@@ -4,6 +4,7 @@ date: 2025-07-29
 subtitle: White-tailed eagle
 tags: [White-tailed eagle]
 ---
+*To be updated. Only a few pictures and text for now..*
 
 White-tailed eagle is the hugest bird in Norway. It is even bigger than the golden eagle.
 
