@@ -102,9 +102,15 @@ A few photos of the female.
 
 ## Nesting
 
-I did also observe when the male
+This photograph depicts the couple prior to the commencement of their nesting season. It is presumed that this behavior serves as an integral component of the bonding ritual observed by the Hen harrier.
 
-{{< image src="/images/henharrier/_DSC1718_DxO.jpg"  caption="Nesting" src_s="/images/henharrier/thumbs/_DSC1718_DxO.jpg" src_l="/images/henharrier/large/_DSC1718_DxO.jpg" >}}
-{{< image src="/images/henharrier/_DSC1726_DxO.jpg"  caption="Nesting" src_s="/images/henharrier/thumbs/_DSC1726_DxO.jpg" src_l="/images/henharrier/large/_DSC1726_DxO.jpg" >}}
 {{< image src="/images/henharrier/_DSC0481_DxO.jpg"  caption="Bonding" src_s="/images/henharrier/thumbs/_DSC0481_DxO.jpg" src_l="/images/henharrier/large/_DSC0481_DxO.jpg" >}}
-{{< image src="/images/henharrier/_DSC1649_DxO.jpg"  caption="Male deliver prey" src_s="/images/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/henharrier/large/_DSC1649_DxO.jpg" >}}
+
+I also observed the male returning with prey. Upon arriving at the nest, he calls for the female, who promptly jumps off to receive the prey. The male then drops the prey into the air, and the female, turning upside down, captures it and returns to the nest.
+
+{{< image src="/images/henharrier/_DSC1649_DxO.jpg"  caption="Male with prey for deliver" src_s="/images/henharrier/thumbs/_DSC1649_DxO.jpg" src_l="/images/henharrier/large/_DSC1649_DxO.jpg" >}}
+
+{{< image src="/images/henharrier/_DSC1718_DxO.jpg"  caption="The male returns with prey" src_s="/images/henharrier/thumbs/_DSC1718_DxO.jpg" src_l="/images/henharrier/large/_DSC1718_DxO.jpg" >}}
+
+{{< image src="/images/henharrier/_DSC1726_DxO.jpg"  caption="The female got the prey and return to the nest" src_s="/images/henharrier/thumbs/_DSC1726_DxO.jpg" src_l="/images/henharrier/large/_DSC1726_DxO.jpg" >}}
+
