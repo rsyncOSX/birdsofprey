@@ -49,13 +49,13 @@ Videos from the trail camera only showed the female on the nest. As I understand
 
 {{< youtube c3B6Ff50sq4 >}}
 
-### The female feeding the chickens
+### The female feeding
 
 Video from the trail camera. The female is feeding the nestlings with small birds.
 
 {{< youtube lg8ypr9b0F4 >}}
 
-### A fox killed the two chickens
+### A fox killed the two nestlings
 
 Video from the trail camera. Also the female feeding the nestlings. But the last clip shows the fox which ended the life of the nestlings.
 
