@@ -6,7 +6,7 @@ tags: [common kestrel]
 ---
 *To be updated. Only a few pictures and text for now..*
 
-The common kestrel is a beautiful, small bird of prey. It is quite common, both in at sea level and in the mountains. I have observed and photographed the common kestrel close to my home and to my cabin in the mountains.
+The common kestrel, a small bird of prey, is renowned for its beauty. Its ubiquity extends across both sea level and mountainous regions. I have had the privilege of observing and photographing the common kestrel in close proximity to my residence and my cabin in the mountains.
 
 <!--more-->
 
