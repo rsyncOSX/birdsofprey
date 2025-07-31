@@ -92,12 +92,16 @@ enableEmoji = true
       # title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
       paginate = 20
         # Page global config
+  [params.author]
+    name = "Thomas Evensen"
+    email = "thomeven@gmail.com"
+    link = ""
+    avatar = ""
   [params.page]
     # whether to hide a page from home page
     hiddenFromHomePage = false

@@ -4,7 +4,7 @@ date: 2025-07-29
 subtitle: Eurasian sparrowhawk
 tags: [Eurasian sparrowhawk]
 ---
-*To be updated. Only a few pictures and text for now..*
+*To be updated.*
 
 Eurasian sparrowhawk.
 

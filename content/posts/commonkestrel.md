@@ -4,11 +4,13 @@ date: 2025-07-29
 subtitle: Common kestrel
 tags: [common kestrel]
 ---
-*To be updated. Only a few pictures and text for now..*
+*To be updated.*
 
 The common kestrel, a small bird of prey, is renowned for its beauty. Its ubiquity extends across both sea level and mountainous regions. I have had the privilege of observing and photographing the common kestrel in close proximity to my residence and my cabin in the mountains.
 
 <!--more-->
+
+The male bird exhibits a reduced number of black spots and streaks, accompanied by a blue-gray cap and tail. In contrast, the female bird, similar to other birds of prey, exhibits a slightly larger size compared to its male counterpart.
 
 | Latin      | UK | Norwegian |
 | --------- |  --------- |    --------- |

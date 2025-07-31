@@ -4,7 +4,6 @@ date: 2025-07-30
 subtitle: Owls
 tags: [owl]
 ---
-*To be updated. Only a few pictures and text for now..*
 
 Among the three owl species I have discussed on these pages, the Northern hawk-owl is a resident bird that I have only observed in proximity to my cabin in the mountains. The Short-eared owl, on the other hand, nests in the mountainous regions and migrates to the southern hemisphere during the winter months. Its close relative, the Long-eared owl, nests in the southern portion of Norway and refrains from migrating if it resides in the Oslo Fjord area.
 
