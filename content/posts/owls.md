@@ -21,6 +21,9 @@ Northern hawk-owl, Short-eared owl and Long-eared owl.
 
 Over the past several weeks, during late October and the commencement of November 2024, I have observed a distinct possibility of encountering three separate Northern hawk-owls in proximity to my mountain cabin. While I am uncertain whether this phenomenon is commonplace or exceptionally rare, the Northern hawk-owl is readily identifiable. Typically, these birds perch at the summit of tall trees, strategically positioned to observe their surroundings and locate potential prey. Notably, the behavior of these owls appears to be somewhat atypical. At one particular location, I have observed instances where the owl has permitted me to approach within a close proximity, approximately 4-5 meters. Conversely, at other encounters, the owl has responded by swiftly flying away when I come too close.
 
+{{< youtube AlY2wJX7nAc >}}
+
+
 {{< image src="/images/owls/_DSC6411_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/owls/thumbs/_DSC6411_DxO.jpg" src_l="/images/owls/large/_DSC6411_DxO.jpg" >}}
 {{< image src="/images/owls/_DSC6652_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/owls/thumbs/_DSC6652_DxO.jpg" src_l="/images/owls/large/_DSC6652_DxO.jpg" >}}
 {{< image src="/images/owls/_DSC6601_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/owls/thumbs/_DSC6601_DxO.jpg" src_l="/images/owls/large/_DSC6601_DxO.jpg" >}}
