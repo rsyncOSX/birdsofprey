@@ -37,7 +37,7 @@ enableEmoji = true
   # Header config
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
-    desktopMode = "fixed"
+    desktopMode = "normal"
     # mobile header mode ["fixed", "normal", "auto"]
     mobileMode = "auto"
     # Header title config
@@ -120,7 +120,7 @@ enableEmoji = true
     # Table of the contents config
     [params.page.toc]
       # whether to enable the table of the contents
-      enable = false
+      enable = true
       # whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
@@ -172,7 +172,7 @@ enableEmoji = true
     [languages.en.params]
       [languages.en.params.home]
         [languages.en.params.home.profile]
-          enable = true
+          enable = false
           gravatarEmail = "thomeven@gmail.com"
           avatarURL = "/images/me.png"
           title = "Birds of prey"

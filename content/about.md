@@ -7,15 +7,19 @@ menu: {main: {weight: 10}}
 
 **These pages are under development**.
 
-Hello there! My name is Thomas, and you can reach me at thomeven@gmail.com. I retired from work in April 2022 at the age of 62, and I'm absolutely passionate about wildlife photography. In my retirement, I spend my days cherishing time with my two daughters and grandchildren, pursuing my photography dreams, developing macOS applications, and exploring the breathtaking Norwegian mountains and nature.
 
-All photos and videos within this pages are taken by me.
+
+Hello there! My name is Thomas, and you can reach me at thomeven@gmail.com. I retired from work in April 2022 at the age of 62, and I'm absolutely passionate about wildlife photography. In my retirement, I spend my days cherishing time with my two daughters and grandchildren, pursuing my photography dreams, developing macOS applications, and exploring the breathtaking Norwegian mountains and nature. *All photos and videos within this pages are taken by me.*
+
+{{< figure src="/images/me.png" title="Me" >}}
 
 # Important
 
 Although I am not an avian expert, my experience observing the Hen harrier has provided me with some deeper understanding of the species. While much of my knowledge is derived from reading literature and research, my personal observations by photo have been particularly valuable. Over the past four to five years, I have dedicated myself to photographing birds, which has enhanced my knowledge and appreciation of these magnificent creatures. 
 
-Observing the Hen harrier has been an immensely rewarding and intellectually stimulating experience. But, I am still a **novice** regarding knowlegde about birds and birding.
+Observing the Hen harrier has been an immensely rewarding and intellectually stimulating experience. 
+
+But, I am still a **novice** regarding knowlegde about birds and birding.
 
 # Birds of prey
 
