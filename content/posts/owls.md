@@ -6,7 +6,7 @@ tags: [owl]
 ---
 *To be updated. Only a few pictures and text for now..*
 
-Northern hawk-owl, Short-eared owl, and Long-eared owl are the three species of owls I have observed. The Northern hawk-owl is a resident bird that I have only seen near my cabin in the mountains. The Short-eared owl nests in the mountains and migrates to the southern hemisphere during winter. Its close relative, the Long-eared owl, nests in the southern part of Norway and does not migrate if it is near the Oslo Fjord area.
+Of the three owl species I have observed, the Northern hawk-owl is a resident bird that I have only seen near my cabin in the mountains. The Short-eared owl nests in the mountains and migrates to the southern hemisphere during winter. Its close relative, the Long-eared owl, nests in the southern part of Norway and does not migrate if it is near the Oslo Fjord area.
 
 <!--more-->
 
@@ -32,6 +32,8 @@ Over the past several weeks, from late October 2024 to approximately mid-March 2
 
 ## Short-eared owl
 
+During the spring season, the Short-eared owl migrates to the mountainous regions. During this migration, I have had the privilege of observing it in close proximity to my residence in Southern Norway. In 2025, I also had the opportunity to witness the Short-eared owl perched near my cabin within the mountains approximately five to six times. On occasion, I have observed it hunting for prey in the vicinity of my cabin, and I have even managed to capture its movements from within the cabin’s walls. Both the Short-eared and Long-eared owl exhibit remarkable grace in their flight patterns. While hunting, they remain close to the ground in search of prey, and they then soar through the fields with ease. 
+
 {{< image src="/images/owls/DSC04816_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04816_DxO.jpg" src_l="/images/owls/large/DSC04816_DxO.jpg" >}}
 
 {{< image src="/images/owls/DSC04880_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04880_DxO.jpg" src_l="/images/owls/large/DSC04880_DxO.jpg" >}}
@@ -41,6 +43,8 @@ Over the past several weeks, from late October 2024 to approximately mid-March 2
 {{< image src="/images/owls/DSC04750_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04750_DxO.jpg" src_l="/images/owls/large/DSC04750_DxO.jpg" >}}
 
 ## Long-eared owl
+
+In the region of Southern Norway, my observations of the Long-eared owl have been confined to the vicinity of my residence. As the young owls leave their nests, they congregate in the trees at sunset, where they actively seek sustenance. This behavior presents an opportune moment for observing them. I dedicated five evenings to patiently awaiting their presence, and during two of those evenings, I was fortunate enough to witness them engaged in the pursuit of prey. Notably, both instances were characterized by favorable lighting conditions, resulting in sharp and close-up photographs.
 
 {{< image src="/images/owls/_DSC4848_DxO.jpg"  caption=" Long-eared owl" src_s="/images/owls/thumbs/_DSC4848_DxO.jpg" src_l="/images/owls/large/_DSC4848_DxO.jpg" >}}
 
