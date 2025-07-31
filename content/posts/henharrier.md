@@ -21,7 +21,7 @@ The male Hen harrier is a striking grey and white bird with black wingtips. The 
 
 In Norway, the Hen harrier is classified as critically endangered. Official statistics indicate that there are no more than 50-100 breeding pairs in Norway. The mortality rate for nestlings is exceptionally high. I have personally observed that foxes have killed nestlings before they were able to leave the nest for the first time. Hen harriers construct their nests on the ground within willow thickets, often near marshlands.
 
-In my opinion, the Hen harrier is one of the most aesthetically pleasing bird of prey in Scandinavia. Although I am not an avian expert, I have spent the past four years observing and studying Hen harriers in the mountains. During the last two years, I have also successfully identified and located their nests. Over this period, I have gained a some understanding of the Hen harrier's behavior and ecology.
+In my opinion, the Hen harrier is one of the most aesthetically pleasing bird of prey in Scandinavia. Although I am not an avian expert, I have spent the past four years observing and studying Hen harriers in the mountains. During the last two years, I have also successfully identified and located their nests. Over this period, I have gained some understanding of the Hen harrier's behavior and ecology.
 
 Identifying Hen harrier nests can be challenging, so it is essential to allocate ample time to the nesting area. Maintaining a vigilant eye and observing their behavior closely are crucial steps. Additionally, luck plays a significant role in locating nests, as being at the appropriate location and time is essential. 
 
