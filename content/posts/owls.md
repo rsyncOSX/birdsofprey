@@ -1,14 +1,16 @@
 ---
 title: Owls
-date: 2025-07-29
+date: 2025-07-30
 subtitle: Owls
 tags: [owl]
 ---
 *To be updated. Only a few pictures and text for now..*
 
-Northern hawk-owl, Short-eared owl and Long-eared owl.
+Northern hawk-owl, Short-eared owl, and Long-eared owl are the three species of owls I have observed. The Northern hawk-owl is a resident bird that I have only seen near my cabin in the mountains. The Short-eared owl nests in the mountains and migrates to the southern hemisphere during winter. Its close relative, the Long-eared owl, nests in the southern part of Norway and does not migrate if it is near the Oslo Fjord area.
 
 <!--more-->
+
+All three owl species are widespread and common. However, despite their ubiquity, they can be challenging to observe. While all three species engage in diurnal hunting, the Short-eared owl and Long-eared owl are most active during sunrise and sunset. The Northern hawk-owl and Short-eared owl have yellow eyes, whereas the Long-eared owl has orange eyes.
 
 | Latin                 | UK                                                                     | Norwegian                                              |
 |-----------------------|------------------------------------------------------------------------|--------------------------------------------------------|
@@ -16,23 +18,38 @@ Northern hawk-owl, Short-eared owl and Long-eared owl.
 | Asio otus             | [Long-eared owl](https://en.wikipedia.org/wiki/Long-eared_owl)       | [Hornugle](https://no.wikipedia.org/wiki/Hornugle)     |
 | Asio flammeus         | [Short-eared owl](https://en.wikipedia.org/wiki/Short-eared_owl)       | [Jordugle](https://no.wikipedia.org/wiki/Jordugle)     |
 
-
 ## Northern hawk-owl
 
-Over the past several weeks, during late October and the commencement of November 2024, I have observed a distinct possibility of encountering three separate Northern hawk-owls in proximity to my mountain cabin. While I am uncertain whether this phenomenon is commonplace or exceptionally rare, the Northern hawk-owl is readily identifiable. Typically, these birds perch at the summit of tall trees, strategically positioned to observe their surroundings and locate potential prey. Notably, the behavior of these owls appears to be somewhat atypical. At one particular location, I have observed instances where the owl has permitted me to approach within a close proximity, approximately 4-5 meters. Conversely, at other encounters, the owl has responded by swiftly flying away when I come too close.
+Over the past several weeks, from late October 2024 to approximately mid-March 2025, I have observed a distinct possibility of encountering three separate Northern hawk-owls in proximity to my mountain cabin. While I am uncertain whether this phenomenon is commonplace or exceptionally rare, the Northern hawk-owl is readily identifiable. Typically, these birds perch at the summit of tall trees, strategically positioned to observe their surroundings and locate potential prey. Notably, the behavior of these owls appears to be somewhat atypical. At one particular location, I have observed instances where the owl has permitted me to approach within a close proximity, approximately 4-5 meters. Conversely, at other encounters, the owl has responded by swiftly flying away when I come too close.
 
 {{< youtube AlY2wJX7nAc >}}
 
-
 {{< image src="/images/owls/_DSC6411_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/owls/thumbs/_DSC6411_DxO.jpg" src_l="/images/owls/large/_DSC6411_DxO.jpg" >}}
+
 {{< image src="/images/owls/_DSC6652_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/owls/thumbs/_DSC6652_DxO.jpg" src_l="/images/owls/large/_DSC6652_DxO.jpg" >}}
+
 {{< image src="/images/owls/_DSC6601_DxO.jpg"  caption="Northern hawk-owl" src_s="/images/owls/thumbs/_DSC6601_DxO.jpg" src_l="/images/owls/large/_DSC6601_DxO.jpg" >}}
 
 ## Short-eared owl
 
 {{< image src="/images/owls/DSC04816_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04816_DxO.jpg" src_l="/images/owls/large/DSC04816_DxO.jpg" >}}
 
+{{< image src="/images/owls/DSC04880_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04880_DxO.jpg" src_l="/images/owls/large/DSC04880_DxO.jpg" >}}
+
+{{< image src="/images/owls/DSC04820_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04820_DxO.jpg" src_l="/images/owls/large/DSC04820_DxO.jpg" >}}
+
+{{< image src="/images/owls/DSC04750_DxO.jpg"  caption="Short-eared owl" src_s="/images/owls/thumbs/DSC04750_DxO.jpg" src_l="/images/owls/large/DSC04750_DxO.jpg" >}}
+
 ## Long-eared owl
 
 {{< image src="/images/owls/_DSC4848_DxO.jpg"  caption=" Long-eared owl" src_s="/images/owls/thumbs/_DSC4848_DxO.jpg" src_l="/images/owls/large/_DSC4848_DxO.jpg" >}}
+
 {{< image src="/images/owls/_DSC5225_DxO.jpg"  caption=" Long-eared owl" src_s="/images/owls/thumbs/_DSC5225_DxO.jpg" src_l="/images/owls/large/_DSC5225_DxO.jpg" >}}
+
+{{< image src="/images/owls/_DSC5261_DxO.jpg"  caption=" Long-eared owl" src_s="/images/owls/thumbs/_DSC5261_DxO.jpg" src_l="/images/owls/large/_DSC5261_DxO.jpg" >}}
+
+{{< image src="/images/owls/_DSC9210_DxO.jpg"  caption=" Long-eared owl" src_s="/images/owls/thumbs/_DSC9210_DxO.jpg" src_l="/images/owls/large/_DSC9210_DxO.jpg" >}}
+
+## Feeding
+
+All three owls primarily hunts small mammals. The number of couples nesting is dependent on the number of mammals available.
