@@ -6,7 +6,7 @@ tags: [White-tailed eagle]
 ---
 *To be updated.*
 
-The white-tailed eagle is the largest bird species in Norway, surpassing even the golden eagle in size.
+The white-tailed eagle is the largest bird species in Norway, surpassing even the golden eagle in size. Unlike the osprey, the white-tailed eagle does not dive into the water.
 
 <!--more-->
 
