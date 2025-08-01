@@ -5,7 +5,7 @@ subtitle: Western marsh harrier
 tags: [Western marsh harrier]
 ---
 
-*To be updated. Only a few pictures and text for now..*
+*To be updated.*
 
 <!--more-->
 
@@ -13,7 +13,14 @@ tags: [Western marsh harrier]
 | --------- |  --------- |    --------- |
 |  Circus aeruginosus |  [Western marsh harrier](https://en.wikipedia.org/wiki/Western_marsh_harrier) |  [Sivhauk](https://no.wikipedia.org/wiki/Sivhauk) |
 
-{{< image src="/images/marshharrier/_DSC0792_DxO.jpg"  caption="Text" src_s="/images/marshharrier/thumbs/_DSC0792_DxO.jpg" src_l="/images/marshharrier/large/_DSC0792_DxO.jpg" >}}
-{{< image src="/images/marshharrier/_DSC0803_DxO.jpg"  caption="Text" src_s="/images/marshharrier/thumbs/_DSC0803_DxO.jpg" src_l="/images/marshharrier/large/_DSC0803_DxO.jpg" >}}
-{{< image src="/images/marshharrier/_DSC9797_DxO.jpg"  caption="Text" src_s="/images/marshharrier/thumbs/_DSC9797_DxO.jpg" src_l="/images/marshharrier/large/_DSC9797_DxO.jpg" >}}
-{{< image src="/images/marshharrier/DSC05333_DxO.jpg"  caption="Text" src_s="/images/marshharrier/thumbs/DSC05333_DxO.jpg" src_l="/images/marshharrier/large/DSC05333_DxO.jpg" >}}
+{{< image src="/images/marshharrier/_DSC0531_DxO.jpg"  caption="Male" src_s="/images/marshharrier/thumbs/_DSC0531_DxO.jpg" src_l="/images/marshharrier/large/_DSC0531_DxO.jpg" >}}
+
+{{< image src="/images/marshharrier/_DSC0808_DxO.jpg"  caption="Male hunting for prey" src_s="/images/marshharrier/thumbs/_DSC0808_DxO.jpg" src_l="/images/marshharrier/large/_DSC0808_DxO.jpg" >}}
+
+{{< image src="/images/marshharrier/_DSC0838_DxO.jpg"  caption="Male" src_s="/images/marshharrier/thumbs/_DSC0838_DxO.jpg" src_l="/images/marshharrier/large/_DSC0838_DxO.jpg" >}}
+
+{{< image src="/images/marshharrier/_DSC1004_DxO.jpg"  caption="Female" src_s="/images/marshharrier/thumbs/_DSC1004_DxO.jpg" src_l="/images/marshharrier/large/_DSC1004_DxO.jpg" >}}
+
+{{< image src="/images/marshharrier/_DSC9809_DxO.jpg"  caption="Female" src_s="/images/marshharrier/thumbs/_DSC9809_DxO.jpg" src_l="/images/marshharrier/large/_DSC9809_DxO.jpg" >}}
+
+{{< image src="/images/marshharrier/DSC07618_DxO.jpg"  caption="Male" src_s="/images/marshharrier/thumbs/DSC07618_DxO.jpg" src_l="/images/marshharrier/large/DSC07618_DxO.jpg" >}}
