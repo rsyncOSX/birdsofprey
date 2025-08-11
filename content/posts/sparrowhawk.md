@@ -26,5 +26,3 @@ Eurasian sparrowhawk.
 {{< image src="/images/sparrowhawk/DSC05807_DxO.jpg"  caption="Sparrowhawk" src_s="/images/sparrowhawk/thumbs/DSC05807_DxO.jpg" src_l="/images/sparrowhawk/large/DSC05807_DxO.jpg" >}}
 
 {{< image src="/images/sparrowhawk/DSC05811_DxO.jpg"  caption="Sparrowhawk" src_s="/images/sparrowhawk/thumbs/DSC05811_DxO.jpg" src_l="/images/sparrowhawk/large/DSC05811_DxO.jpg" >}}
-
-{{< image src="/images/sparrowhawk/DSC06646_DxO.jpg"  caption="Sparrowhawk" src_s="/images/sparrowhawk/thumbs/DSC06646_DxO.jpg" src_l="/images/sparrowhawk/large/DSC06646_DxO.jpg" >}}
