@@ -76,15 +76,13 @@ Additionally, I observed the male Hen harrier returning with small birds that he
 
 ## The Male
 
-The video was captured in 2025, approximately near the nest. Consequently, the male bird is present and expresses discomfort due to my proximity to the nest. 
+The video was captured in 2025, approximately near the nest. Consequently, the male is present and expresses discomfort due to my proximity to the nest. 
 
 {{< youtube 3wPDP6-S-eg >}}
 
 A few photos of the male.
 
 {{< image src="/images/henharrier/_DSC8500_DxO.jpg"  caption="Male" src_s="/images/henharrier/thumbs/_DSC8500_DxO.jpg" src_l="/images/henharrier/large/_DSC8500_DxO.jpg" >}}
-
-{{< image src="/images/henharrier/_DSC1404_DxO.jpg"  caption="Male" src_s="/images/henharrier/thumbs/_DSC1404_DxO.jpg" src_l="/images/henharrier/large/_DSC1404_DxO.jpg" >}}
 
 {{< image src="/images/henharrier/_DSC8318_DxO.jpg"  caption="Male" src_s="/images/henharrier/thumbs/_DSC8318_DxO.jpg" src_l="/images/henharrier/large/_DSC8318_DxO.jpg" >}}
 
