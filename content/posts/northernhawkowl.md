@@ -1,6 +1,6 @@
 ---
 title: Northern hawk-owl
-date: 2025-07-30
+date: 2025-09-05
 subtitle: Northern hawk-owl
 tags: [owls]
 ---

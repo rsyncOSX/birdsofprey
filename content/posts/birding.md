@@ -1,6 +1,6 @@
 ---
 title: About my bird photography
-date: 2025-08-01
+date: 2025-09-06
 subtitle: About my bird photography
 tags: [bird phography]
 ---
