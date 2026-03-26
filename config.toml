@@ -1,0 +1,40 @@
+title = "Birds of prey"
+baseURL = "https://birdsofprey.netlify.app/"
+theme = "gallery"
+
+defaultContentLanguage = "en"
+languageCode = "en"
+enableRobotsTXT = true
+enableEmoji = true
+timeout = "120s"
+copyright = "Thomas Evensen - all photos are copyrighted by law"
+
+[params]
+  defaultTheme = "dark"
+  description = "Some birds of prey photographed in Norway by Thomas Evensen"
+  title = "Birds of prey"
+  [params.author]
+    name = "Thomas Evensen"
+    email = "thomeven@gmail.com"
+  [params.socialIcons]
+    email = "mailto:thomeven@gmail.com"
+  [params.gallery]
+    targetRowHeight = 300
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 82
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+
+[menu]
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 1
