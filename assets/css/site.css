@@ -125,8 +125,12 @@ main {
 }
 
 .page-story {
-  padding-top: 2rem;
+  padding-top: 0;
   scroll-margin-top: 1rem;
+}
+
+.page-story .content {
+  margin-top: 0;
 }
 
 .page-toc {
@@ -226,7 +230,7 @@ main {
 }
 
 .gallery-section {
-  padding: 1rem 0 4rem;
+  padding: 1rem 0 1.5rem;
   scroll-margin-top: 1rem;
 }
 
@@ -237,7 +241,7 @@ main {
 }
 
 .gallerydeluxe {
-  min-height: 70vh;
+  min-height: 0;
 }
 
 .site-footer {
@@ -264,5 +268,9 @@ main {
   .home-intro,
   .page {
     padding-top: 2rem;
+  }
+
+  .page-story {
+    padding-top: 0;
   }
 }
